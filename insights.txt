@@ -1,0 +1,32 @@
+E-COMMERCE CONVERSION RATE - KEY INSIGHTS
+=========================================
+Period: 2025-01-01 to 2025-12-31  |  Records: 5,475
+
+HEADLINE NUMBERS
+- Total visitors      : 1,644,057
+- Product views       : 979,159  (59.6% of visitors)
+- Add to cart         : 196,964  (20.1% of views)
+- Purchases           : 69,877  (35.5% of carts)
+- Overall conversion  : 4.25%  (purchases / visitors)
+- Revenue             : Rs. 185,248,721   |  Avg order value: Rs. 2,651
+
+FUNNEL
+1. Biggest drop-off: Product View -> Add to Cart (79.9% of users lost at this step).
+2. Cart abandonment rate: 64.5% of carts never reach purchase.
+
+TIME PATTERNS
+3. Best month: November (5.21%); weakest month: February (3.82%).
+4. Day of week has almost no effect (gap only 0.18 pts between Friday and Tuesday); weekday vs weekend is not a lever.
+
+SEGMENTS
+5. Best channel: Email (9.21%); weakest: Social Media (1.73%).
+6. Highest revenue channel: Organic Search (Rs. 56,258,946).
+7. Best device: Desktop (5.10%); weakest: Mobile (3.80%).
+   Mobile brings 62% of visitors.
+
+RECOMMENDATIONS
+- Reduce cart abandonment: cart reminder emails, guest checkout, clear shipping cost early.
+- Improve the mobile experience (faster pages, simpler checkout), as it converts lowest.
+- Shift budget toward high-converting channels (Email); fix landing pages for Social Media.
+- Plan campaigns and stock around peak months (November) and keep offers running in slow months (February).
+- Run A/B tests on the Product View -> Add to Cart step, since it loses the most users.
